@@ -1,0 +1,53 @@
+commit 74201074cf2916fdee13b5378a1cd854add614db
+Author: acintora <acintora@prodigy.net.mx>
+Date:   Tue Feb 16 17:14:01 2021 -0600
+
+    I added information to readme2.txt
+
+commit b6556046afdb6b6ed92d8f5637498b5f0da79f55
+Author: acintora <acintora@prodigy.net.mx>
+Date:   Tue Feb 16 17:11:21 2021 -0600
+
+    added readme10.txt
+
+commit 660ee35c4c7d811fcd5754eec57006e61e9aec27
+Author: acintora <acintora@prodigy.net.mx>
+Date:   Tue Feb 16 16:54:31 2021 -0600
+
+    I added git_log.txt to my repo.
+
+commit db3453395246a51545ca66711841419510ec168b
+Author: acintora <acintora@prodigy.net.mx>
+Date:   Tue Feb 16 14:55:18 2021 -0600
+
+    added jpg to gitignore
+
+commit 9b2225f64451339d9a6ab851e7effdcbc8f14456
+Author: acintora <acintora@prodigy.net.mx>
+Date:   Tue Feb 16 11:46:54 2021 -0600
+
+    added gitignore
+
+commit df90131a3d0acec48480d3b74d7dc102c15d61ee
+Author: acintora <acintora@prodigy.net.mx>
+Date:   Tue Feb 16 10:45:46 2021 -0600
+
+    Changed name of arch2
+
+commit 298a06455a69108d2ae1dde30b5a076d34046ee2
+Author: acintora <acintora@prodigy.net.mx>
+Date:   Tue Feb 16 10:36:36 2021 -0600
+
+    added readme2.txt
+
+commit 4e770c53df5a1f99c2e56ec29b48d66b6adf0b21
+Author: acintora <acintora@prodigy.net.mx>
+Date:   Mon Feb 15 12:22:44 2021 -0600
+
+    added tree files
+
+commit 24c266ac01b696845af914dd347c8cb49b547924
+Author: acintora <acintora@prodigy.net.mx>
+Date:   Mon Feb 15 12:08:40 2021 -0600
+
+    added readme.txt
